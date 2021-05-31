@@ -12,9 +12,11 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
+    - name: Build
+      run: npm install
     - name: Fetch latest data
       run: |-
-        node scrape.js | jq -r '.[] | [.date,.time,.sequenceNum,.incidentNature,.location] | @csv' | cat - data/reports.csv | awk '!x[$0]++' > temp.csv
+        npm run action | jq -r '.[] | [.date,.time,.sequenceNum,.incidentNature,.location] | @csv' | cat - data/reports.csv | awk '!x[$0]++' > temp.csv
         mv temp.csv data/reports.csv
     - name: Commit and push if it changed
       run: |-
