@@ -16,7 +16,7 @@ jobs:
       run: npm install
     - name: Fetch latest data
       run: |-
-        npm run action | jq -r '.[] | [.date,.time,.sequenceNum,.incidentNature,.location] | @csv' | cat - data/reports.csv | awk '!x[$0]++' > temp.csv
+        node scrape.js | jq -r '.[] | [.date,.time,.sequenceNum,.incidentNature,.location] | @csv' | cat - data/reports.csv | awk '!x[$0]++' > temp.csv
         mv temp.csv data/reports.csv
     - name: Commit and push if it changed
       run: |-
