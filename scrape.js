@@ -5,12 +5,12 @@ const { JSDOM } = jsdom
 
 
 async function main () {
-  const response = await fetch('https://www.co.thurston.wa.us/sheriff/incidents-report.htm')
+  const response = await fetch('https://www.thurstoncountywa.gov/sheriff/Pages/incidents-report.aspx')
   const body = await response.text()
   // const body = fs.readFileSync('./sample.html', 'utf8')
 
   const dom = new JSDOM(body)
-  const rows = [...dom.window.document.querySelectorAll('#center_col table tr')]
+  const rows = [...dom.window.document.querySelectorAll('.ms-webpart-zone')[1].querySelectorAll('table tr')]
   const data = rows.reduce((acc, row) => {
       const tds = row.querySelectorAll('td')
       return [
