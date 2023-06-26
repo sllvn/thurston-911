@@ -16,8 +16,11 @@ jobs:
       run: npm install
     - name: Fetch latest data
       run: |-
-        node scrape.js | jq -r '.[] | [.date,.time,.sequenceNum,.incidentNature,.location] | @csv' | cat - data/reports.csv | awk '!x[$0]++' > temp.csv
+        curl https://www.co.thurston.wa.us/apps/sheriff-911-calls/calls.csv > calls.csv
+        iconv -c -f utf-16le calls.csv > calls-utf8.csv
+        tail +2 calls-utf8.csv | cat data/reports.csv - > temp.csv
         mv temp.csv data/reports.csv
+        rm calls.csv calls-utf8.csv
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
