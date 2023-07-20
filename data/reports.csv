@@ -6996,3 +6996,239 @@ Date,Time,Sequence Number,Nature of Incident,Address,City
 07/17/2023,23:37:09,231980995,Traffic Stop,Yelm Hwy Se Briggs Dr Se, Tumwater
 07/17/2023,23:42:22,231980998,Follow Up,202xx Old Hwy 99 Sw, Centralia
 07/17/2023,23:43:24,231980999,Public Service,50xx Boston Harbor Rd Ne, Olympia
+07/18/2023,00:08:47,231990002,CRISIS,Kinwood St Se 5th Ct Se, Olympia
+07/18/2023,00:14:28,231990006,Public Service,50xx Boston Harbor Rd Ne, Olympia
+07/18/2023,00:25:05,231990010,Attempt to Contact,3xx Market St N, Bucoda
+07/18/2023,00:41:18,231990014,Suspicious Circumstances,125xx Koeppen Rd Se, Rainier
+07/18/2023,00:56:12,231990020,Refer to Other Agency,129xx Morris Rd Se, Yelm
+07/18/2023,00:56:23,231990019,Warrant,194xx Bucoda Hwy Se, Tenino
+07/18/2023,01:10:03,231990026,CRISIS,50xx Boston Harbor Rd Ne, Olympia
+07/18/2023,01:20:10,231990027,Welfare Check,140xx Tilley Rd S, Tenino
+07/18/2023,01:26:17,231990030,Medical Call Assist,27xx 26th Ave Ne, Olympia
+07/18/2023,01:28:46,231990033,Welfare Check,132xx Dravin Ln Se, Rainier
+07/18/2023,02:02:48,231990041,Traffic Stop,Martin Way E Neil St Ne, Olympia
+07/18/2023,02:07:40,231990045,Traffic Stop,Martin Way E Kingham St Ne, Olympia
+07/18/2023,02:13:27,231990050,Welfare Check,144xx Sr 8 W, Olympia
+07/18/2023,02:50:41,231990062,Area Check,1xx Rochester St W, Rainier
+07/18/2023,03:15:21,231990074,Assist Other Agency,62xx 197th Way Sw, Rochester
+07/18/2023,03:17:43,231990075,Suspicious Person,71xx Bayview Dr Ne, Olympia
+07/18/2023,03:25:56,231990077,CRISIS,73xx Marvin Rd Ne, Olympia
+07/18/2023,03:29:21,231990079,Suspicious Person,3xx 72nd Way Ne, Olympia
+07/18/2023,03:43:37,231990082,Welfare Check,99xx 178th Way Sw, Rochester
+07/18/2023,03:44:45,231990083,Welfare Check,98xx 178th Way Sw, Rochester
+07/18/2023,03:53:24,231990087,Medical Call Assist,7xx Sandra Lee St Se, Olympia
+07/18/2023,04:01:50,231990089,Suspicious Person,4xx 143rd Ave Se, Tenino
+07/18/2023,04:14:58,231990093,Assist Other Agency,101xx Stedman Rd Se, Olympia
+07/18/2023,04:25:39,231990096,Info Patrol,33xx Gravelly Beach Loop Nw, Olympia
+07/18/2023,04:40:58,231990100,Welfare Check,101xx Stedman Rd Se, Olympia
+07/18/2023,05:06:22,231990108,Domestic Violence,109xx Waddell Creek Rd Sw, Olympia
+07/18/2023,05:09:01,231990105,Alarm,74xx Pacific Ave Se, Olympia
+07/18/2023,05:10:35,231990107,Theft,17xx 93rd Ave Se, Olympia
+07/18/2023,05:11:45,231990109,Welfare Check,3xx School St Se, Olympia
+07/18/2023,05:26:44,231990110,Alarm,59xx Braywood Ln Se, Olympia
+07/18/2023,05:36:17,231990112,Welfare Check,113xx Littlerock Rd Sw, Olympia
+07/18/2023,05:55:12,231990117,Runaway,220xx Plateau Ct Se, Yelm
+07/18/2023,06:13:57,231990121,Fire Call - Assist,115xx Clark Rd Se, Yelm
+07/18/2023,06:16:49,231990126,Welfare Check,115xx Clark Rd Se, Yelm
+07/18/2023,06:22:21,231990133,Animal,Old Hwy 99 Se Tilley Rd S, Tenino
+07/18/2023,06:26:45,231990136,Welfare Check,135xx Manke Rd Se, Rainier
+07/18/2023,06:26:56,231990137,Traffic Accident,135xx Manke Rd Se, Rainier
+07/18/2023,06:29:59,231990139,Follow Up,101xx Stedman Rd Se, Olympia
+07/18/2023,07:17:49,231990149,Auto Theft,81xx Sweetbrier Ln Se, Olympia
+07/18/2023,07:27:37,231990151,Repossess Vehicle,70xx 183rd Ave Sw, Rochester
+07/18/2023,07:47:51,231990158,Assist Other Agency,Old Hwy 99 Sw Jare St Sw, Rochester
+07/18/2023,07:51:52,231990161,Transport,34xx Ferguson St Sw, Tumwater
+07/18/2023,07:55:01,231990163,Suspicious Circumstances,70xx Boston Harbor Rd Ne, Olympia
+07/18/2023,08:07:32,231990173,Domestic Violence,Chatwood Rd Se Vail Loop Rd Se, Rainier
+07/18/2023,08:17:32,231990180,Follow Up,169xx Weaver Ln Sw, Rochester
+07/18/2023,08:22:42,231990185,Medical Call Assist,83xx Janis Ct Se, Olympia
+07/18/2023,08:32:28,231990189,Welfare Check,97xx I5 N, Olympia
+07/18/2023,08:42:52,231990198,Loitering,62xx 201st Ave Sw, Rochester
+07/18/2023,09:05:07,231990213,Domestic Violence,3xx 73rd Ave Ne, Olympia
+07/18/2023,09:10:50,231990215,Fraud,82xx Ayer St Se, Olympia
+07/18/2023,09:12:39,231990220,Attempt to Contact,37xx Delphi Rd Sw, Olympia
+07/18/2023,09:20:41,231990228,Medical Call Assist,37xx Steamboat Loop Nw, Olympia
+07/18/2023,09:23:05,231990235,Info Patrol,Sb Us Highway 101 S At Delphi Rd Sw, Olympia
+07/18/2023,09:24:11,231990236,Medical Call Assist,65xx 117th Ave Sw, Olympia
+07/18/2023,09:24:13,231990233,Medical Call Assist,91xx Steilacoom Rd Se, Olympia
+07/18/2023,09:25:17,231990238,Welfare Check,35xx Blumauer Rd Se, Tenino
+07/18/2023,09:27:10,231990240,Follow Up,220xx Plateau Ct Se, Yelm
+07/18/2023,09:45:41,231990248,Welfare Check,125xx Champion Dr Sw, Olympia
+07/18/2023,09:50:07,231990254,DUI,Black Lake Blvd Sw Black Lake Belmore Rd Sw, Olympia
+07/18/2023,10:04:24,231990262,Area Check,1xx 7th St E, Bucoda
+07/18/2023,10:07:23,231990265,Animal,Waldrick Rd Se Offut Lake Rd Se, Olympia
+07/18/2023,10:11:55,231990268,Parking Violation,4th St E Market St N, Bucoda
+07/18/2023,10:13:32,231990270,Medical Call Assist,50xx Boston Harbor Rd Ne, Olympia
+07/18/2023,10:14:05,231990269,Assist Other Agency,54xx Braywood Ln Se, Olympia
+07/18/2023,10:24:04,231990279,Welfare Check,86xx Rainier Rd Se, Olympia
+07/18/2023,10:26:21,231990280,Alarm,44xx 20th Way Ne, Olympia
+07/18/2023,10:33:56,231990289,Info Patrol,34xx Ferguson St Sw, Tumwater
+07/18/2023,10:44:12,231990298,Noise Complaint,115xx Bald Hills Rd Se, Yelm
+07/18/2023,11:11:24,231990316,DUI,Old Hwy 99 Sw Vylam Ln Sw, Rochester
+07/18/2023,11:25:00,231990322,Welfare Check,46xx Skylark St Ne, Olympia
+07/18/2023,11:31:13,231990329,Transport,34xx Ferguson St Sw, Tumwater
+07/18/2023,11:32:31,231990330,Traffic Accident,50xx Us Highway 101 N, Olympia
+07/18/2023,11:34:30,231990333,Unwanted Person,165xx Mima Acres Dr Se, Tenino
+07/18/2023,11:34:36,231990332,Domestic Violence,173xx Sargent Rd Sw, Rochester
+07/18/2023,11:49:21,231990342,Welfare Check,155xx Bald Hills Rd Se, Yelm
+07/18/2023,11:50:45,231990346,Public Service,Kaiser Rd Nw Cooper Point Rd Nw, Olympia
+07/18/2023,11:52:26,231990344,Medical Call Assist,64xx Hawks Prairie Rd Ne, Olympia
+07/18/2023,11:54:37,231990347,Welfare Check,125xx Littlerock Rd Sw, Olympia
+07/18/2023,11:56:42,231990349,Medical Call Assist,125xx Littlerock Rd Sw, Olympia
+07/18/2023,12:04:30,231990356,Welfare Check,28xx Saint Clair Station Rd Se, Olympia
+07/18/2023,12:21:55,231990366,Theft,11xx Carmel Ct Se, Olympia
+07/18/2023,12:22:06,231990365,Alarm,41xx 41st Loop Se, Olympia
+07/18/2023,12:25:16,231990369,Welfare Check,112xx Morris Rd Se, Yelm
+07/18/2023,12:28:24,231990370,Welfare Check,129xx 155th Ln Se, Rainier
+07/18/2023,12:29:05,231990371,Drunk,91xx Pacific Ave Se, Olympia
+07/18/2023,12:31:25,231990372,Alarm,41xx 41st Loop Se, Olympia
+07/18/2023,12:39:31,231990379,CRISIS,73xx Marvin Rd Ne, Olympia
+07/18/2023,12:41:33,231990381,Area Check,67xx Fairview Rd Sw, Olympia
+07/18/2023,12:43:03,231990384,Fire Call - Assist,78xx Countrywood Dr Se, Olympia
+07/18/2023,12:43:32,231990386,Welfare Check,67xx Fairview Rd Sw, Olympia
+07/18/2023,12:45:50,231990388,Fraud,82xx Ayer St Se, Olympia
+07/18/2023,12:45:54,231990389,Refer to Other Agency,Old Hwy 99 Sw Vylam Ln Sw, Rochester
+07/18/2023,12:49:48,231990391,Medical Call Assist,55xx Day Crest Ct Se, Olympia
+07/18/2023,12:57:41,231990398,Welfare Check,71xx Boston Harbor Rd Ne, Olympia
+07/18/2023,13:00:14,231990399,Fire Call - Assist,Yelm Hwy Se Saskatoon Ln Se, Olympia
+07/18/2023,13:10:52,231990408,Medical Call Assist,129xx Silver Creek Dr Se, Tenino
+07/18/2023,13:11:02,231990410,Welfare Check,60xx Meridian Rd Se, Olympia
+07/18/2023,13:15:40,231990417,Civil Call,65xx Sexton Dr Nw, Olympia
+07/18/2023,13:22:48,231990428,Follow Up,187xx Sargent Rd Sw, Rochester
+07/18/2023,13:28:24,231990431,Medical Call Assist,90xx 2nd Ln Se, Olympia
+07/18/2023,13:29:20,231990430,Follow Up,163xx Village Dr Se, Rainier
+07/18/2023,13:34:44,231990434,Traffic Accident,28xx Boat Launch St Se, Olympia
+07/18/2023,13:39:38,231990438,Traffic Accident,Rainier Rd Se Fir Tree Rd Se, Olympia
+07/18/2023,13:40:35,231990440,Traffic Accident,Waddell Creek Rd Sw Sherman Valley Rd Sw, Olympia
+07/18/2023,13:42:06,231990441,Welfare Check,68xx Fir Tree Rd Se, Olympia
+07/18/2023,13:43:04,231990444,Follow Up,101xx Stedman Rd Se, Olympia
+07/18/2023,13:43:53,231990446,Welfare Check,87xx Rainier Rd Se, Olympia
+07/18/2023,13:45:02,231990447,Assist Other Agency,Rainier Rd Se Fir Tree Rd Se, Olympia
+07/18/2023,13:47:23,231990450,CRISIS,73xx Marvin Rd Ne, Olympia
+07/18/2023,13:52:49,231990452,Refer to Other Agency,Rainier Rd Se Fir Tree Rd Se, Olympia
+07/18/2023,13:56:02,231990455,Medical Call Assist,21xx Alonda Ln Ne, Olympia
+07/18/2023,14:05:18,231990463,Suspicious Circumstances,159xx Lawrence Pl Se, Yelm
+07/18/2023,14:14:04,231990477,Disorderly Conduct,79xx Martin Way E, Olympia
+07/18/2023,14:17:24,231990481,Suspicious Vehicle,Yelm Tenino Trl Se Deschutes River, Tenino
+07/18/2023,14:21:18,231990486,Follow Up,101xx Stedman Rd Se, Olympia
+07/18/2023,14:25:31,231990488,Welfare Check,71xx Martin Way E, Olympia
+07/18/2023,14:25:43,231990490,Fraud,85xx Lake Lucinda Dr Sw, Olympia
+07/18/2023,14:26:55,231990491,Welfare Check,71xx Martin Way E, Olympia
+07/18/2023,14:28:17,231990492,Welfare Check,71xx Martin Way E, Olympia
+07/18/2023,14:40:29,231990499,Medical Call Assist,76xx 19th Ln Se, Olympia
+07/18/2023,14:46:54,231990506,Medical Call Assist,170xx Filbert Ct Se, Yelm
+07/18/2023,14:49:04,231990510,Follow Up,181xx Deschutes Dr Se, Yelm
+07/18/2023,14:57:28,231990520,Burglary,27xx Maytown Rd Sw, Olympia
+07/18/2023,14:58:04,231990519,Welfare Check,27xx Sleater Kinney Rd Ne, Olympia
+07/18/2023,15:01:08,231990521,Welfare Check,71xx Martin Way E, Olympia
+07/18/2023,15:07:19,231990526,Medical Call Assist,76xx 13th Ave Ne, Olympia
+07/18/2023,15:16:06,231990530,Alarm,96xx Glory Dr Se, Olympia
+07/18/2023,15:28:57,231990535,Medical Call Assist,162xx Case Rd Sw, Rochester
+07/18/2023,15:31:03,231990537,Traffic Stop,27xx Conger Ave Nw, Olympia
+07/18/2023,15:46:24,231990550,Area Check,73xx Woodard Bay Rd Ne, Olympia
+07/18/2023,15:46:31,231990558,Welfare Check,3xx Easy St Se, Rainier
+07/18/2023,15:47:35,231990559,Suspicious Circumstances,125xx Champion Dr Sw, Olympia
+07/18/2023,15:51:36,231990560,Area Check,196xx Elderberry St Sw, Rochester
+07/18/2023,15:54:35,231990562,Traffic Accident,Sb Us Highway 101 S At Evergreen Pkwy Nw, Olympia
+07/18/2023,15:54:38,231990566,Protection Order,37xx Biscay St Nw, Olympia
+07/18/2023,16:13:21,231990577,Info Patrol,205xx Grand Mound Way Sw, Centralia
+07/18/2023,16:21:11,231990580,Malicious Mischief,115xx Waddell Creek Rd Sw, Olympia
+07/18/2023,16:22:09,231990581,Transport,20xx Lakeridge Dr Sw, Olympia
+07/18/2023,16:23:53,231990582,Welfare Check,112xx Morris Rd Se, Yelm
+07/18/2023,16:27:56,231990584,Welfare Check,12xx Manito Dr Ne, Olympia
+07/18/2023,16:29:07,231990589,Sex Offense,54xx Glenmore Dr Se, Olympia
+07/18/2023,16:34:21,231990591,Welfare Check,51xx 63rd Ave Ne, Olympia
+07/18/2023,16:39:23,231990593,Traffic Accident,Husky Way Se Choker St Se, Olympia
+07/18/2023,16:53:38,231990601,Medical Call Assist,76xx Zangle Rd Ne, Olympia
+07/18/2023,16:55:37,231990603,Medical Call Assist,15xx Mercantile Ln Ne, Olympia
+07/18/2023,17:05:39,231990609,Follow Up,27xx Maytown Rd Sw, Olympia
+07/18/2023,17:15:27,231990622,Fraud,49xx Foxtrail Dr Ne, Olympia
+07/18/2023,17:23:18,231990629,Fire Call - Assist,33xx Maytown Rd Sw, Olympia
+07/18/2023,17:23:33,231990628,Welfare Check,26xx Wilderness Dr Se, Olympia
+07/18/2023,17:24:01,231990631,Welfare Check,30xx 60th Ave Se, Olympia
+07/18/2023,17:26:43,231990634,Suspicious Person,91xx Pacific Ave Se, Olympia
+07/18/2023,17:30:15,231990637,Medical Call Assist,Waddell Creek Rd Sw Lake Lucinda Dr Sw, Olympia
+07/18/2023,17:30:22,231990635,Traffic Accident,Rich Rd Se Normandy St Se, Olympia
+07/18/2023,17:32:59,231990639,Traffic Accident,Sb Us Highway 101 S At Eb Sr 8 E, Olympia
+07/18/2023,17:38:56,231990647,Info Patrol,13xx Paradise Ct Se, Olympia
+07/18/2023,17:40:29,231990649,Juvenile Complaint,1xx Copper Wood Ln Se, Olympia
+07/18/2023,17:43:01,231990654,CRISIS,9xx Neil St Ne, Olympia
+07/18/2023,17:44:54,231990657,Reckless Driving,28xx Country Club Rd Nw, Olympia
+07/18/2023,17:48:14,231990659,Refer to Other Agency,13xx Hyak Ct Ne, Olympia
+07/18/2023,17:56:13,231990667,Info Patrol,73xx Marvin Rd Ne, Olympia
+07/18/2023,17:57:53,231990668,Follow Up,27xx Maytown Rd Sw, Olympia
+07/18/2023,17:59:48,231990669,Traffic Accident,40xx Us Highway 101 S, Olympia
+07/18/2023,18:02:57,231990673,Follow Up,125xx Champion Dr Sw, Olympia
+07/18/2023,18:13:13,231990678,Follow Up,2xx Market St N, Bucoda
+07/18/2023,18:15:55,231990680,Welfare Check,78xx Husky Way Se, Olympia
+07/18/2023,18:22:07,231990688,CRISIS,67xx Prairie Ridge Dr Ne, Olympia
+07/18/2023,18:23:28,231990686,Welfare Check,49xx Offut Lake Rd Se, Tenino
+07/18/2023,18:24:51,231990690,Traffic Stop,Woodard Bay Rd Ne Whitham Rd Ne, Olympia
+07/18/2023,18:25:19,231990689,Refer to Other Agency,33xx Maytown Rd Sw, Olympia
+07/18/2023,18:27:55,231990692,Traffic Stop,Pepperidge Ln Se Thuja Ave Se, Yelm
+07/18/2023,18:28:34,231990696,Welfare Check,116xx Waddell Creek Rd Sw, Olympia
+07/18/2023,18:35:15,231990704,Info Patrol,187xx Sargent Rd Sw, Rochester
+07/18/2023,18:43:25,231990710,Refer to Other Agency,36xx Princeton Ct Se, Olympia
+07/18/2023,18:52:08,231990716,Medical Call Assist,171xx Vail Loop Rd Se, Rainier
+07/18/2023,19:11:15,231990727,Info Patrol,25xx 114th Ave Sw, Olympia
+07/18/2023,19:19:02,231990734,Welfare Check,135xx Solberg Rd Se, Yelm
+07/18/2023,19:21:59,231990740,Medical Call Assist,64xx Hawks Prairie Rd Ne, Olympia
+07/18/2023,19:24:32,231990742,Follow Up,49xx Foxtrail Dr Ne, Olympia
+07/18/2023,19:37:36,231990752,Traffic Stop,Martin Way E Duterrow Rd Se, Olympia
+07/18/2023,19:42:53,231990754,Medical Call Assist,47xx Archer Dr Se, Olympia
+07/18/2023,19:48:14,231990756,Refer to Other Agency,13xx Hyak Ct Ne, Olympia
+07/18/2023,19:50:06,231990757,Traffic Stop,29xx Yelm Hwy Se, Olympia
+07/18/2023,19:54:42,231990761,Follow Up,142xx 148th Ave Se, Yelm
+07/18/2023,19:55:11,231990762,Medical Call Assist,171xx Dyson Rd Se, Tenino
+07/18/2023,19:55:54,231990764,Area Check,10xx Crosby Blvd Sw, Tumwater
+07/18/2023,19:56:18,231990767,Impound,102xx Martin Way E, Olympia
+07/18/2023,20:01:20,231990769,Follow Up,125xx Champion Dr Sw, Olympia
+07/18/2023,20:04:29,231990773,Public Service,20xx Lakeridge Dr Sw, Olympia
+07/18/2023,20:13:28,231990777,Welfare Check,62xx Braywood Ln Se, Olympia
+07/18/2023,20:15:29,231990778,Medical Call Assist,39xx 18th Ave Ne, Olympia
+07/18/2023,20:18:54,231990782,Traffic Accident,127xx Us Highway 12 Sw, Rochester
+07/18/2023,20:19:59,231990785,Welfare Check,126xx Us Highway 12 Sw, Rochester
+07/18/2023,20:22:32,231990786,Narcotics Investigation,75xx Martin Way E, Olympia
+07/18/2023,20:29:04,231990790,Medical Call Assist,53xx 80th Ct Sw, Olympia
+07/18/2023,20:32:00,231990798,Vehicle Prowl,16xx Maytown Rd Sw, Olympia
+07/18/2023,20:32:07,231990794,Medical Call Assist,87xx 181st Way Sw, Rochester
+07/18/2023,20:32:09,231990797,Welfare Check,18xx Maytown Rd Sw, Olympia
+07/18/2023,20:36:14,231990803,Refer to Other Agency,86xx 29th Way Se, Olympia
+07/18/2023,20:38:51,231990804,Traffic Stop,Martin Way E Duterrow Rd Se, Olympia
+07/18/2023,20:40:56,231990805,Info Patrol,113xx Yelm Tenino Trl Se, Rainier
+07/18/2023,20:50:54,231990812,Field Interview,91xx Pacific Ave Se, Olympia
+07/18/2023,21:04:34,231990818,Area Check,2xx Binghampton St W, Rainier
+07/18/2023,21:14:20,231990822,Medical Call Assist,91xx Steilacoom Rd Se, Olympia
+07/18/2023,21:17:25,231990826,DUI,Marvin Rd Ne 56th Ave Ne, Olympia
+07/18/2023,21:18:02,231990825,Welfare Check,129xx 155th Ln Se, Rainier
+07/18/2023,21:18:05,231990824,Area Check,196xx Elderberry St Sw, Rochester
+07/18/2023,21:41:27,231990838,Assist Other Agency,27xx Maytown Rd Sw, Olympia
+07/18/2023,21:41:46,231990841,Medical Call Assist,87xx I5 N, Centralia
+07/18/2023,21:43:00,231990849,Follow Up,23xx Lister Rd Ne, Olympia
+07/18/2023,21:45:19,231990845,Fire Call - Assist,70xx Meridian Rd Se, Olympia
+07/18/2023,21:48:25,231990851,Welfare Check,12xx Merkel St Ne, Olympia
+07/18/2023,21:50:11,231990852,Field Interview,63xx 193rd Ave Sw, Rochester
+07/18/2023,21:50:31,231990853,Repossess Vehicle,125xx Champion Dr Sw, Olympia
+07/18/2023,21:52:18,231990855,Info Patrol,9xx Neil St Ne, Olympia
+07/18/2023,22:01:17,231990859,Traffic Stop,Old Hwy 99 Sw 203rd Ave Sw, Centralia
+07/18/2023,22:12:43,231990871,DUI,Old Hwy 99 Se Offut Lake Rd Se, Tenino
+07/18/2023,22:19:56,231990874,Area Check,27xx 93rd Ave Sw, Tumwater
+07/18/2023,22:20:26,231990876,Welfare Check,178xx Sr 507, Yelm
+07/18/2023,22:27:56,231990879,Domestic Violence,74xx 91st Ave Se, Olympia
+07/18/2023,22:38:26,231990884,Follow Up,69xx Thoroughbred Ln Se, Olympia
+07/18/2023,22:39:54,231990886,Medical Call Assist,184xx Vylam Ln Sw, Rochester
+07/18/2023,22:59:46,231990899,Welfare Check,112xx Morris Rd Se, Yelm
+07/18/2023,22:59:59,231990900,Field Interview,1xx Park St S, Bucoda
+07/18/2023,23:03:49,231990901,Traffic Stop,197xx Sargent Rd Sw, Rochester
+07/18/2023,23:10:22,231990905,Noise Complaint,61xx Churchill Rd Se, Tenino
+07/18/2023,23:16:24,231990910,Traffic Stop,Wichman St S 5th Ave W, Tenino
+07/18/2023,23:17:43,231990912,Traffic Stop,Algyer Rd Se Runyon Rd Se, Yelm
+07/18/2023,23:24:37,231990916,Follow Up,27xx Maytown Rd Sw, Olympia
+07/18/2023,23:39:47,231990925,Medical Call Assist,104xx Clark Rd Se, Yelm
+07/18/2023,23:44:55,231990930,Area Check,12xx Marvin Rd Ne, Lacey
+07/18/2023,23:48:59,231990933,Malicious Mischief,29xx Crowder Ct Se, Tenino
+07/18/2023,23:50:43,231990932,Traffic Stop,Mcclellan St S Old Hwy 99 S, Tenino
+07/18/2023,23:53:52,231990937,Welfare Check,25xx Willa St Ne, Olympia
+07/18/2023,23:57:00,231990939,Assist Other Agency,Marvin Rd Se 9th Ave Se, Olympia
+07/18/2023,23:57:13,231990940,Assist Other Agency,62xx 197th Way Sw, Rochester
+07/18/2023,23:58:47,231990941,Suspicious Vehicle,116xx 6th Ave Se, Olympia
