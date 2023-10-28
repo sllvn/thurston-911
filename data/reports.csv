@@ -29554,3 +29554,209 @@ Date,Time,Sequence Number,Nature of Incident,Address,City
 10/25/2023,23:44:48,232980933,Repossess Vehicle,39xx 93rd Ave Sw, Olympia
 10/25/2023,23:51:48,232980936,Medical Call Assist,175xx Sargent Rd Sw, Rochester
 10/25/2023,23:59:28,232980941,Assist Other Agency,95xx Mullen Rd Se, Olympia
+10/26/2023,00:23:07,232990005,Suspicious Circumstances,191xx Albany St Sw, Rochester
+10/26/2023,00:27:31,232990007,Medical Call Assist,55xx Sleater Kinney Rd Ne, Olympia
+10/26/2023,00:32:35,232990011,Assist Other Agency,3xx Sussex Ave W, Tenino
+10/26/2023,00:38:11,232990016,Animal,Boxelder Dr Sw Greenridge St Sw, Olympia
+10/26/2023,00:45:31,232990020,Medical Call Assist,29xx Jorgenson Rd Ne, Olympia
+10/26/2023,00:48:25,232990022,Assist Other Agency,27xx 93rd Ave Sw, Tumwater
+10/26/2023,01:15:16,232990029,Medical Call Assist,7xx Sandra Lee St Se, Olympia
+10/26/2023,01:21:43,232990034,Assist Other Agency,Martin Way E Desmond Dr Se, Lacey
+10/26/2023,01:24:10,232990035,Traffic Stop,Maytown Rd Sw Case Rd Sw, Olympia
+10/26/2023,02:18:36,232990052,Assist Other Agency,163xx Birkland St Se, Yelm
+10/26/2023,02:24:01,232990056,Medical Call Assist,84xx 13th Ave Se, Olympia
+10/26/2023,02:31:45,232990059,Medical Call Assist,67xx Prairie Ridge Dr Ne, Olympia
+10/26/2023,02:34:16,232990061,Medical Call Assist,9xx Clubhouse Ln Se, Olympia
+10/26/2023,03:22:47,232990067,Alarm,63xx 196th Ave Sw, Rochester
+10/26/2023,03:56:14,232990074,Medical Call Assist,5xx Trailblazer Ct Se, Olympia
+10/26/2023,04:31:32,232990083,Suspicious Person,8xx Marvin Rd Se, Olympia
+10/26/2023,04:34:42,232990084,Alarm,63xx 196th Ave Sw, Rochester
+10/26/2023,04:46:47,232990088,Traffic Stop,Vail Rd Se 110th Ave Se, Yelm
+10/26/2023,04:46:52,232990089,Repossess Vehicle,77xx Oakberg Ln Sw, Rochester
+10/26/2023,04:54:53,232990094,Follow Up,8xx Marvin Rd Se, Olympia
+10/26/2023,05:03:09,232990101,Follow Up,32xx Citadel Ct Se, Olympia
+10/26/2023,05:11:23,232990103,Traffic Stop,Sr 507 Koeppen Rd Se, Yelm
+10/26/2023,05:23:51,232990110,Traffic Stop,Yelm Ave E 1st St N, Yelm
+10/26/2023,05:35:42,232990111,Medical Call Assist,24xx 92nd Ct Se, Olympia
+10/26/2023,05:47:11,232990116,Traffic Stop,102xx I5 S, Tumwater
+10/26/2023,05:50:04,232990117,Public Service,24xx Fishtrap Loop Ne, Olympia
+10/26/2023,05:59:18,232990118,Alarm,63xx 196th Ave Sw, Rochester
+10/26/2023,06:13:36,232990124,Attempt to Contact,23xx Shirley St Se, Lacey
+10/26/2023,06:14:46,232990126,Traffic Stop,15xx Ruddell Rd Se, Lacey
+10/26/2023,06:17:31,232990129,Follow Up,64xx Meridian Rd Se, Olympia
+10/26/2023,06:21:37,232990133,Assist Other Agency,22xx Shirley St Se, Lacey
+10/26/2023,06:22:01,232990134,Traffic Stop,Sr 507 Carter St Se, Yelm
+10/26/2023,06:30:29,232990136,Follow Up,8xx Tipsoo Loop S, Rainier
+10/26/2023,06:46:02,232990138,Medical Call Assist,50xx 194th Ln Sw, Rochester
+10/26/2023,06:53:09,232990144,Juvenile Complaint,111xx Shaw Rd Se, Yelm
+10/26/2023,06:58:48,232990153,Assist Other Agency,77xx New Market St Sw, Tumwater
+10/26/2023,07:16:09,232990160,Medical Call Assist,77xx Yelm Hwy Se, Olympia
+10/26/2023,07:20:12,232990163,Assist Other Agency,Chatham Dr Se Steilacoom Rd Se, Lacey
+10/26/2023,07:39:48,232990171,Traffic Stop,Guava St Sw 183rd Ave Sw, Rochester
+10/26/2023,07:42:47,232990173,Traffic Stop,93rd Ave Sw Case Rd Sw, Tumwater
+10/26/2023,08:02:58,232990178,Civil Call,105xx Creek St Se, Yelm
+10/26/2023,08:06:17,232990180,Traffic Stop,8xx Deerbrush Dr Se, Olympia
+10/26/2023,08:10:39,232990185,Public Service,46xx 67th Ave Se, Lacey
+10/26/2023,08:12:16,232990188,Civil Call,12xx Fern St Sw, Olympia
+10/26/2023,08:19:33,232990194,Traffic Stop,96xx Tilley Rd S, Olympia
+10/26/2023,08:21:51,232990197,Traffic Stop,107xx Clark Rd Se, Yelm
+10/26/2023,08:32:31,232990199,Traffic Stop,3rd St Se Mosman Ave Se, Yelm
+10/26/2023,08:39:02,232990204,Suspicious Circumstances,52xx Wild Goose Ln Nw, Olympia
+10/26/2023,08:39:55,232990206,Civil Call,26xx Saint Clair Cutoff Rd Se, Olympia
+10/26/2023,08:48:55,232990211,Welfare Check,93xx Yelm Hwy Se, Olympia
+10/26/2023,08:54:51,232990214,Traffic Stop,72xx Old Hwy 99 Se, Tumwater
+10/26/2023,08:56:47,232990215,Civil Call,131xx Old Hwy 99 Se, Tenino
+10/26/2023,09:00:47,232990218,Follow Up,24xx Hogum Bay Rd Ne, Olympia
+10/26/2023,09:02:38,232990217,Warrant,197xx Old Hwy 99 Sw, Rochester
+10/26/2023,09:06:07,232990221,Traffic Stop,107xx Morris Rd Se, Yelm
+10/26/2023,09:09:22,232990225,Abuse,132xx 118th Ave Se, Rainier
+10/26/2023,09:09:31,232990226,Suspicious Circumstances,7xx Binghampton St W, Rainier
+10/26/2023,09:10:17,232990228,Medical Call Assist,2xx Market St S, Bucoda
+10/26/2023,09:17:42,232990235,Medical Call Assist,126xx Algyer Rd Se, Rainier
+10/26/2023,09:19:04,232990238,Traffic Stop,102xx Rainier Rd Se, Olympia
+10/26/2023,09:21:13,232990239,Medical Call Assist,123xx Vail Cutoff Rd Se, Rainier
+10/26/2023,09:28:36,232990248,Follow Up,12xx Gadwell Ct Se, Olympia
+10/26/2023,09:32:40,232990250,Traffic Stop,Rainier Rd Se 138th Ave Se, Rainier
+10/26/2023,09:34:35,232990254,Civil Call,154xx Tilley Rd S, Tenino
+10/26/2023,09:36:04,232990261,Info Patrol,20xx Mayes Rd Se, Olympia
+10/26/2023,09:38:15,232990256,Suspicious Vehicle,5xx Duterrow Rd Se, Olympia
+10/26/2023,09:39:47,232990263,Medical Call Assist,63xx Black Lake Belmore Rd Sw, Olympia
+10/26/2023,09:40:00,232990262,Civil Call,224xx Basin View Ct Se, Yelm
+10/26/2023,09:43:24,232990267,Medical Call Assist,35xx 81st Ave Sw, Olympia
+10/26/2023,09:47:24,232990271,Medical Call Assist,12xx Warner St Ne, Olympia
+10/26/2023,09:50:33,232990273,Welfare Check,92xx Milburn Loop Se, Olympia
+10/26/2023,09:57:31,232990277,Alarm,1xx Raintree Loop Se, Rainier
+10/26/2023,10:07:49,232990286,Civil Call,177xx Leitner Rd Sw, Rochester
+10/26/2023,10:18:44,232990292,Traffic Stop,63xx 196th Ave Sw, Rochester
+10/26/2023,10:31:43,232990306,Civil Call,74xx 44th Ave Ne, Olympia
+10/26/2023,10:32:32,232990308,Welfare Check,28xx Sand Trap Ct Sw, Olympia
+10/26/2023,10:37:08,232990310,Welfare Check,35xx 49th Ave Sw, Olympia
+10/26/2023,10:37:36,232990311,Civil Call,177xx Moon Rd Sw, Rochester
+10/26/2023,10:37:56,232990312,Civil Call,31xx Carpenter Hills Loop Se, Lacey
+10/26/2023,10:42:19,232990316,Medical Call Assist,80xx 188th Ave Sw, Rochester
+10/26/2023,10:46:30,232990320,Public Service,71xx Martin Way E, Olympia
+10/26/2023,10:50:54,232990322,Civil Call,144xx Prairie Park Way Sw, Olympia
+10/26/2023,10:51:58,232990323,Civil Call,25xx 25th Loop Se, Lacey
+10/26/2023,10:52:40,232990324,Impound,59xx Puget Beach Rd Ne, Olympia
+10/26/2023,11:07:30,232990337,Abuse,13xx Milbanke Dr Se, Olympia
+10/26/2023,11:09:36,232990339,Public Service,33xx Lady Fern Loop Nw, Olympia
+10/26/2023,11:18:13,232990344,Medical Call Assist,88xx Pacific Ave Se, Olympia
+10/26/2023,11:19:31,232990346,Protection Order,2xx Mckenzie Ave Se, Yelm
+10/26/2023,11:19:58,232990349,Suspicious Vehicle,50xx Mud Bay Rd W, Olympia
+10/26/2023,11:25:27,232990353,Civil Call,9xx 95th Ln Se, Olympia
+10/26/2023,11:31:00,232990359,Follow Up,79xx 175th Trl Sw, Rochester
+10/26/2023,12:03:39,232990380,Traffic Accident,70xx Us Highway 101 S, Olympia
+10/26/2023,12:26:44,232990402,Traffic Accident,91xx Bordeaux Rd Sw, Olympia
+10/26/2023,12:27:48,232990401,Animal,197xx Pecan St Sw, Rochester
+10/26/2023,12:33:59,232990405,Assist Other Agency,5xx Yelm Ave W, Yelm
+10/26/2023,12:40:58,232990411,Follow Up,93xx Yelm Hwy Se, Olympia
+10/26/2023,12:44:20,232990417,Traffic Stop,132xx 118th Ave Se, Rainier
+10/26/2023,12:53:17,232990423,Medical Call Assist,154xx 157th Ln Se, Yelm
+10/26/2023,12:58:23,232990431,Follow Up,12xx Gadwell Ct Se, Olympia
+10/26/2023,13:03:25,232990435,Transport,34xx Ferguson St Sw, Tumwater
+10/26/2023,13:03:53,232990438,Welfare Check,85xx Valley Green Dr Se, Olympia
+10/26/2023,13:07:32,232990441,Warrant,Martin Way E Lilly Rd Ne, Olympia
+10/26/2023,13:24:16,232990462,Suspicious Person,92xx Littlerock Rd Sw, Olympia
+10/26/2023,13:26:30,232990463,Medical Call Assist,52xx Boston Harbor Rd Ne, Olympia
+10/26/2023,13:29:21,232990465,Domestic Violence,79xx Kelly Beach Rd Se, Olympia
+10/26/2023,13:33:27,232990470,Found Property,32xx Wilderness Dr Se, Olympia
+10/26/2023,13:36:41,232990472,Welfare Check,32xx Wilderness Dr Se, Olympia
+10/26/2023,13:42:41,232990475,Medical Call Assist,55xx Sleater Kinney Rd Ne, Olympia
+10/26/2023,13:45:55,232990481,Traffic Accident,Old Pacific Hwy Se 7th Ave Se, Olympia
+10/26/2023,13:49:22,232990486,Welfare Check,7xx Old Pacific Hwy Se, Olympia
+10/26/2023,13:51:55,232990490,Animal,50xx 186th Ln Sw, Rochester
+10/26/2023,13:55:38,232990492,Follow Up,34xx Old Steamboat Island Rd Nw, Olympia
+10/26/2023,13:56:41,232990494,Disorderly Conduct,216xx N Clear Lake Blvd Se, Yelm
+10/26/2023,13:59:25,232990496,Traffic Stop,2xx Binghampton St W, Rainier
+10/26/2023,14:02:26,232990498,Medical Call Assist,5xx Seahawk St Se, Olympia
+10/26/2023,14:04:21,232990501,Alarm,21xx 26th Ave Ne, Olympia
+10/26/2023,14:08:31,232990511,Impound,21xx Overhulse Rd Nw, Olympia
+10/26/2023,14:12:15,232990510,Civil Call,181xx Old Hwy 99 Sw, Rochester
+10/26/2023,14:15:52,232990513,Civil Call,38xx Sleater Kinney Rd Ne, Olympia
+10/26/2023,14:17:17,232990517,Burglary,210xx 173rd Ave Se, Yelm
+10/26/2023,14:17:26,232990515,Civil Call,177xx Moon Rd Sw, Rochester
+10/26/2023,14:24:04,232990526,Public Service,187xx Sargent Rd Sw, Rochester
+10/26/2023,14:28:54,232990528,Medical Call Assist,26xx Angus Dr Se, Tenino
+10/26/2023,14:30:08,232990531,Traffic Stop,60xx 6th Ave Se, Lacey
+10/26/2023,14:32:26,232990533,Alarm,69xx Lakeside St Sw, Olympia
+10/26/2023,14:34:24,232990535,Alarm,174xx 155th Ave Se, Yelm
+10/26/2023,14:37:02,232990539,Follow Up,46xx 163rd Ln Sw, Rochester
+10/26/2023,15:04:39,232990562,Public Service,20xx Lakeridge Dr Sw, Olympia
+10/26/2023,15:13:33,232990576,Follow Up,14xx Horne St Ne, Olympia
+10/26/2023,15:13:59,232990574,Traffic Stop,4th Ave Se College St Se, Lacey
+10/26/2023,15:15:14,232990577,Fire Call - Assist,82xx Cedarwood St Se, Tenino
+10/26/2023,15:34:14,232990594,Welfare Check,146xx 119th Way Se, Yelm
+10/26/2023,15:35:17,232990595,Reckless Driving,2xx 2nd St W, Rainier
+10/26/2023,15:40:14,232990598,Medical Call Assist,15xx Reservation Rd Se, Olympia
+10/26/2023,15:44:38,232990601,Follow Up,1xx Copper Wood Ln Se, Olympia
+10/26/2023,15:45:07,232990603,Follow Up,20xx Lakeridge Dr Sw, Olympia
+10/26/2023,15:49:48,232990608,Medical Call Assist,84xx 173rd Ave Sw, Rochester
+10/26/2023,15:53:08,232990611,Traffic Stop,Yelm Hwy Se Boulevard Ext Rd Se, Olympia
+10/26/2023,15:54:02,232990614,Follow Up,210xx 173rd Ave Se, Yelm
+10/26/2023,15:56:36,232990617,Civil Call,167xx Reichel Rd Se, Rainier
+10/26/2023,16:00:45,232990620,Medical Call Assist,170xx Sheldon Ln Sw, Rochester
+10/26/2023,16:01:01,232990619,Follow Up,187xx Sargent Rd Sw, Rochester
+10/26/2023,16:03:06,232990625,Area Check,47xx Whitman Ln Se, Lacey
+10/26/2023,16:11:03,232990636,Follow Up,131xx Tilley Rd S, Olympia
+10/26/2023,16:15:46,232990639,Assault,36xx 34th Ln Ne, Olympia
+10/26/2023,16:22:53,232990645,Follow Up,12xx Firpark Dr Se, Olympia
+10/26/2023,16:32:22,232990653,Abandonded Vehicle,164xx Village Dr Se, Rainier
+10/26/2023,16:36:27,232990656,Missing Person,191xx Melon St Sw, Rochester
+10/26/2023,16:46:07,232990664,Traffic Accident,Martin Way E Kinwood St Se, Olympia
+10/26/2023,16:48:24,232990665,Assist Other Agency,8xx Trosper Rd Sw, Tumwater
+10/26/2023,16:55:10,232990672,Medical Call Assist,151xx Fox Hill Rd Se, Yelm
+10/26/2023,17:00:53,232990678,Suspicious Circumstances,29xx Libby Rd Ne, Olympia
+10/26/2023,17:07:49,232990683,Animal,1xx Nisqually Cutoff Rd Se, Olympia
+10/26/2023,17:11:30,232990684,Medical Call Assist,86xx Glenlea Ct Se, Yelm
+10/26/2023,17:19:02,232990693,Medical Call Assist,80xx 26th Ave Se, Olympia
+10/26/2023,17:29:42,232990699,Medical Call Assist,6xx Overhulse Rd Nw, Olympia
+10/26/2023,17:33:50,232990704,Suspicious Person,48xx Mud Bay Rd W, Olympia
+10/26/2023,17:35:53,232990707,Domestic Violence,112xx 180th Ln Sw, Rochester
+10/26/2023,17:44:06,232990713,Medical Call Assist,20xx Wingate Dr Se, Olympia
+10/26/2023,17:45:32,232990716,Keep the Peace,32xx Citadel Ct Se, Olympia
+10/26/2023,17:52:56,232990719,Follow Up,77xx New Market St Sw, Tumwater
+10/26/2023,18:09:23,232990728,Follow Up,32xx Citadel Ct Se, Olympia
+10/26/2023,18:10:38,232990730,Repossess Vehicle,166xx Muskrat Dr Se, Rainier
+10/26/2023,18:18:04,232990732,Welfare Check,162xx Dodge Ln Sw, Olympia
+10/26/2023,18:20:35,232990733,Medical Call Assist,5xx Choker Ct Se, Olympia
+10/26/2023,18:30:42,232990741,Traffic Stop,900 Nb Off Ramp Quinault Dr Ne, Lacey
+10/26/2023,18:36:25,232990744,Welfare Check,67xx Fir Tree Rd Se, Olympia
+10/26/2023,18:39:18,232990747,Follow Up,75xx Spurgeon Creek Rd Se, Olympia
+10/26/2023,18:48:21,232990752,Follow Up,72xx 14th Ave Ne, Olympia
+10/26/2023,18:49:55,232990750,Welfare Check,4xx Cougar St Se, Olympia
+10/26/2023,18:55:15,232990756,Follow Up,154xx Scenic Shores Dr Se, Yelm
+10/26/2023,18:59:38,232990759,Follow Up,16xx Rockcress Dr Se, Olympia
+10/26/2023,19:11:25,232990766,Medical Call Assist,101xx Windward Dr Nw, Olympia
+10/26/2023,19:16:05,232990770,Follow Up,1xx Copper Wood Ln Se, Olympia
+10/26/2023,19:16:19,232990773,Suspicious Circumstances,185xx Elderberry St Sw, Rochester
+10/26/2023,19:24:39,232990774,Welfare Check,100xx Green Acres Ln Se, Yelm
+10/26/2023,19:24:54,232990777,Medical Call Assist,100xx Green Acres Ln Se, Yelm
+10/26/2023,19:31:48,232990790,Welfare Check,134xx Yelm Hwy Se, Yelm
+10/26/2023,19:46:17,232990798,Area Check,3xx 2nd St W, Rainier
+10/26/2023,20:02:25,232990807,Protection Order,115xx Entree View Dr Sw, Olympia
+10/26/2023,20:04:30,232990808,Welfare Check,97xx Delphi Rd Sw, Olympia
+10/26/2023,20:15:00,232990815,DUI,Old Hwy 99 Sw Nutmeg St Sw, Rochester
+10/26/2023,20:22:09,232990818,Attempt to Contact,55xx 34th Ave Se, Lacey
+10/26/2023,20:36:47,232990826,Suspicious Vehicle,78xx Martin Way E, Olympia
+10/26/2023,20:51:08,232990833,Area Check,113xx Vail Cutoff Rd Se, Rainier
+10/26/2023,21:01:24,232990844,Civil Call,90xx 36th Ct Se, Olympia
+10/26/2023,21:05:52,232990842,DUI,Old Pacific Hwy Se Winlock Ct Se, Olympia
+10/26/2023,21:19:42,232990848,Traffic Stop,Yelm Hwy Se Parkside Dr Se, Lacey
+10/26/2023,21:29:30,232990860,Info Patrol,17xx Summit Lake Shore Rd Nw, Olympia
+10/26/2023,21:33:30,232990855,Traffic Stop,1xx Binghampton St E, Rainier
+10/26/2023,21:34:25,232990856,Suspicious Vehicle,78xx Martin Way E, Olympia
+10/26/2023,21:34:51,232990857,Follow Up,30xx Kaiser Rd Nw, Olympia
+10/26/2023,21:48:51,232990865,Traffic Stop,Harrison Ave Nw Kaiser Rd Nw, Olympia
+10/26/2023,21:50:10,232990866,Warrant,57xx 180th Ave Sw, Rochester
+10/26/2023,21:55:27,232990869,Trespassing,64xx 128th Ave Sw, Olympia
+10/26/2023,21:57:23,232990871,Traffic Stop,Husky Way Se Carpenter Rd Se, Olympia
+10/26/2023,22:03:04,232990874,Traffic Stop,99xx I5 S, Tumwater
+10/26/2023,22:09:01,232990876,Welfare Check,68xx Martin Way E, Olympia
+10/26/2023,22:16:11,232990878,Traffic Stop,3xx Trailblazer St Se, Olympia
+10/26/2023,22:17:59,232990881,Welfare Check,24xx Morningside Dr Se, Tenino
+10/26/2023,22:35:36,232990897,CRISIS,116xx Morris Rd Se, Yelm
+10/26/2023,22:37:50,232990898,Alarm,72xx Pacific Ave Se, Olympia
+10/26/2023,22:46:54,232990900,Traffic Stop,Yelm Hwy Se Normandy Dr Se, Olympia
+10/26/2023,23:06:29,232990909,Welfare Check,26xx 41st Ln Nw, Olympia
+10/26/2023,23:14:12,232990917,Info Patrol,78xx Johnson Point Rd Ne, Olympia
+10/26/2023,23:34:54,232990929,Traffic Accident,78xx Samurai Dr Se, Olympia
