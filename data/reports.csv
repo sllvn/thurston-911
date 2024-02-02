@@ -49643,3 +49643,227 @@ Date,Time,Sequence Number,Nature of Incident,Address,City
 01/30/2024,23:43:50,240301048,Noise Complaint,88xx Skokomish Way Ne,Olympia
 01/30/2024,23:44:22,240301047,Domestic Violence,69xx Holmes Island Rd Se,Olympia
 01/30/2024,23:58:22,240301059,Medical Call Assist,61xx 123rd Ave Sw,Olympia
+01/31/2024,00:05:53,240310004,Traffic Stop,Yelm Hwy Se 93rd Ave Sw,Yelm
+01/31/2024,00:11:15,240310006,Medical Call Assist,10xx Neil St Ne,Olympia
+01/31/2024,00:17:06,240310011,Assist Other Agency,4xx Lee St Sw,Tumwater
+01/31/2024,00:19:02,240310012,Welfare Check,217xx Oregon Trail Rd Sw,Centralia
+01/31/2024,00:20:13,240310014,Suspicious Person,139th Ln Se Vail Rd Se,Yelm
+01/31/2024,00:20:15,240310013,Traffic Stop,173xx Sr 507,Yelm
+01/31/2024,01:00:20,240310039,Field Interview,103rd Ave Ne Yelm Ave E,Yelm
+01/31/2024,01:09:19,240310048,Assist Other Agency,Bald Hills Rd Se Morris Rd Se,Yelm
+01/31/2024,01:28:57,240310052,Area Check,2xx Delphi Rd Sw,Olympia
+01/31/2024,01:31:37,240310055,Medical Call Assist,109xx Kuhlman Rd Se,Olympia
+01/31/2024,01:41:44,240310059,Traffic Stop,123xx Tilley Rd S,Olympia
+01/31/2024,01:50:44,240310067,Area Check,6xx 3rd St W,Rainier
+01/31/2024,01:54:28,240310068,Field Interview,77xx Martin Way E,Olympia
+01/31/2024,02:01:01,240310074,Traffic Stop,85xx Pacific Ave Se,Olympia
+01/31/2024,02:16:20,240310083,Repossess Vehicle,46xx Skylark St Ne,Olympia
+01/31/2024,02:20:31,240310088,Traffic Stop,82xx Martin Way E,Lacey
+01/31/2024,02:41:15,240310096,Field Interview,57xx Martin Way E,Lacey
+01/31/2024,02:48:21,240310098,Traffic Stop,Martin Way E Nb I5 N,Lacey
+01/31/2024,03:09:12,240310108,Area Check,165xx Port Orford Blvd Se,Yelm
+01/31/2024,03:16:35,240310109,Medical Call Assist,84xx 183rd Ave Sw,Rochester
+01/31/2024,03:39:22,240310118,Medical Call Assist,47xx 118th Loop Sw,Olympia
+01/31/2024,03:50:02,240310120,Area Check,Skokomish Way Ne Manito Dr Ne,Olympia
+01/31/2024,03:59:13,240310123,Welfare Check,76xx 19th Ln Se,Olympia
+01/31/2024,04:31:16,240310135,Area Check,1xx 7th St E,Bucoda
+01/31/2024,04:45:36,240310144,Traffic Stop,Sr 507 Carter St Se,Yelm
+01/31/2024,04:50:37,240310148,Death Investigation,131xx Moes Rd Se,Rainier
+01/31/2024,05:14:13,240310152,Refer to Other Agency,131xx Moes Rd Se,Rainier
+01/31/2024,05:15:01,240310154,Medical Call Assist,116xx Nisqually Park Loop Se,Olympia
+01/31/2024,05:36:32,240310157,Civil Call,51xx 78th Ave Nw,Olympia
+01/31/2024,05:59:15,240310163,Medical Call Assist,28xx Calais Ln Nw,Olympia
+01/31/2024,06:02:08,240310165,Medical Call Assist,86xx Cascara Ct Se,Yelm
+01/31/2024,06:12:06,240310168,Traffic Stop,12xx Marvin Rd Ne,Lacey
+01/31/2024,06:22:14,240310172,Traffic Stop,67xx Martin Way E,Olympia
+01/31/2024,06:31:58,240310173,Medical Call Assist,88xx Timber Loop Se,Olympia
+01/31/2024,06:35:17,240310180,Follow Up,77xx James Rd Sw,Rochester
+01/31/2024,06:49:36,240310183,Death Investigation,8xx Marvin Rd Se,Olympia
+01/31/2024,07:00:44,240310187,Refer to Other Agency,8xx Marvin Rd Se,Olympia
+01/31/2024,07:02:16,240310190,Medical Call Assist,75xx Fair Oaks Loop Se,Olympia
+01/31/2024,07:11:46,240310196,Traffic Stop,Old Hwy 99 Sw Marsh St Sw,Tenino
+01/31/2024,07:19:05,240310200,Traffic Accident,Delphi Rd Sw 62nd Ave Sw,Olympia
+01/31/2024,07:19:21,240310199,DUI,40xx Us Highway 101 N,Olympia
+01/31/2024,07:32:01,240310210,Info Patrol,150xx Old Hwy 99 Se,Tenino
+01/31/2024,07:34:07,240310211,Alarm,150xx Old Hwy 99 Se,Tenino
+01/31/2024,07:36:43,240310216,Traffic Stop,South Bay Rd Ne 5th Ave Ne,Olympia
+01/31/2024,07:36:49,240310214,Medical Call Assist,75xx Fair Oaks Loop Se,Olympia
+01/31/2024,07:39:11,240310218,Vehicle Prowl,91xx Martin Way E,Olympia
+01/31/2024,07:48:00,240310222,Traffic Accident,101xx Martin Way E,Olympia
+01/31/2024,08:00:23,240310236,Traffic Stop,65xx 193rd Ave Sw,Rochester
+01/31/2024,08:04:31,240310233,Welfare Check,115xx Cemetery Rd Se,Yelm
+01/31/2024,08:06:34,240310241,Auto Theft,105xx Old Mckenna Rd Se,Yelm
+01/31/2024,08:13:42,240310242,Medical Call Assist,71xx Fair Oaks Loop Se,Olympia
+01/31/2024,08:17:14,240310246,Warrant,38xx Sleater Kinney Rd Ne,Olympia
+01/31/2024,08:17:24,240310249,Suspicious Person,8xx South Bay Rd Ne,Olympia
+01/31/2024,08:19:36,240310251,Reckless Driving,Pacific Ave Se Union Mills Rd Se,Olympia
+01/31/2024,08:20:27,240310250,Medical Call Assist,174xx 155th Ave Se,Yelm
+01/31/2024,08:22:40,240310254,Follow Up,69xx 5th Way Se,Olympia
+01/31/2024,08:26:29,240310256,Follow Up,182xx Doris Ln Sw,Rochester
+01/31/2024,08:32:46,240310262,Public Service,105xx 176th Ave Sw,Rochester
+01/31/2024,08:37:21,240310263,Refer to Other Agency,40xx Us Highway 101 N,Olympia
+01/31/2024,08:42:42,240310268,Welfare Check,33xx Maytown Rd Sw,Olympia
+01/31/2024,08:44:06,240310272,Follow Up,Crowder Rd Se 184th Ave Se,Tenino
+01/31/2024,08:46:39,240310276,Auto Theft,96xx Old Hwy 99 Se,Olympia
+01/31/2024,08:55:02,240310283,Suspicious Person,Kinwood St Se Husky Way Se,Olympia
+01/31/2024,09:11:45,240310292,Follow Up,169xx Weaver Ln Sw,Rochester
+01/31/2024,09:11:48,240310294,Medical Call Assist,33xx Friendly Grove Rd Ne,Olympia
+01/31/2024,09:17:15,240310299,Medical Call Assist,28xx 10th Ave Ne,Olympia
+01/31/2024,09:20:51,240310304,Suspicious Person,Dobiash Ln Se 138th Ave Se,Yelm
+01/31/2024,09:24:36,240310306,Area Check,Xx C6800 Rd,Olympia
+01/31/2024,09:26:06,240310309,Medical Call Assist,129xx Koeppen Rd Se,Rainier
+01/31/2024,09:26:22,240310311,Medical Call Assist,110xx Chaucer St Se,Olympia
+01/31/2024,09:28:22,240310313,Assault,162xx Bald Hills Rd Se,Yelm
+01/31/2024,09:30:01,240310314,Medical Call Assist,88xx Homestead Ave Ne,Olympia
+01/31/2024,09:35:50,240310321,Welfare Check,19xx Golden Maples Ct Nw,Olympia
+01/31/2024,09:37:31,240310323,Medical Call Assist,88xx Quinault Loop Ne,Olympia
+01/31/2024,09:37:58,240310325,Medical Call Assist,54xx Brenner Rd Nw,Olympia
+01/31/2024,09:42:03,240310332,CRISIS,64xx Alder Glen Dr Se,Olympia
+01/31/2024,09:42:20,240310330,Medical Call Assist,72xx Fair Oaks Loop Se,Olympia
+01/31/2024,10:02:56,240310347,Alarm,68xx Old Olympic Hwy Sw,Olympia
+01/31/2024,10:08:16,240310349,Domestic Violence,8xx Mac Ln Se,Olympia
+01/31/2024,10:09:45,240310351,Suspicious Vehicle,Canal Rd Se Railway Rd Se,Yelm
+01/31/2024,10:10:14,240310352,Follow Up,103xx Us Highway 12 Sw,Rochester
+01/31/2024,10:19:06,240310358,Disturbance,147xx Regal Ln Se,Yelm
+01/31/2024,10:22:59,240310362,Fraud,12xx Mix Rd Nw,Olympia
+01/31/2024,10:26:05,240310363,Follow Up,22xx 26th Ave Nw,Olympia
+01/31/2024,10:42:48,240310380,Suspicious Circumstances,88xx 58th Ave Se,Olympia
+01/31/2024,10:47:50,240310387,Welfare Check,171xx Snowbell Ct Se,Yelm
+01/31/2024,10:49:33,240310385,Refer to Other Agency,20xx Lakeridge Dr Sw,Olympia
+01/31/2024,10:56:15,240310397,Assault,224xx Parkcrest Ln Se,Yelm
+01/31/2024,10:57:34,240310390,Death Investigation,104xx Littlerock Rd Sw,Olympia
+01/31/2024,10:58:14,240310392,Suspicious Person,Kinwood St Se Husky Way Se,Olympia
+01/31/2024,10:59:34,240310393,Threats,60xx 193rd Ave Sw,Rochester
+01/31/2024,11:09:57,240310407,Refer to Other Agency,104xx Littlerock Rd Sw,Olympia
+01/31/2024,11:13:28,240310414,Medical Call Assist,75xx Celesta Ln Sw,Olympia
+01/31/2024,11:34:09,240310434,Fire Call - Assist,42xx 15th Ave Ne,Olympia
+01/31/2024,11:42:25,240310446,Refer to Other Agency,147xx Regal Ln Se,Yelm
+01/31/2024,11:49:19,240310453,Medical Call Assist,54xx Black Lake Blvd Sw,Olympia
+01/31/2024,11:49:24,240310450,Welfare Check,59xx Ivan Way Sw,Rochester
+01/31/2024,11:51:12,240310455,Follow Up,12xx Mix Rd Nw,Olympia
+01/31/2024,11:51:56,240310456,Welfare Check,26xx Trevue Ave Sw,Olympia
+01/31/2024,11:57:37,240310464,Threats,187xx Woodburn Ct Se,Yelm
+01/31/2024,12:03:49,240310470,Info Patrol,92xx Littlerock Rd Sw,Olympia
+01/31/2024,12:06:00,240310476,Disturbance,203xx 167th Ln Se,Yelm
+01/31/2024,12:13:26,240310484,Welfare Check,203xx 167th Ln Se,Yelm
+01/31/2024,12:14:15,240310486,Traffic Accident,Delphi Rd Sw 32nd Ct Sw,Olympia
+01/31/2024,12:15:34,240310489,Welfare Check,Delphi Rd Sw 32nd Ct Sw,Olympia
+01/31/2024,12:18:09,240310498,Welfare Check,89xx Mulberry Ct Se,Yelm
+01/31/2024,12:20:01,240310496,Medical Call Assist,103xx 189th Ln Sw,Rochester
+01/31/2024,12:25:20,240310502,Refer to Other Agency,Delphi Rd Sw 32nd Ct Sw,Olympia
+01/31/2024,12:40:50,240310516,Transport,34xx Ferguson St Sw,Tumwater
+01/31/2024,12:55:31,240310526,Refer to Other Agency,Delphi Rd Sw 32nd Ct Sw,Olympia
+01/31/2024,13:02:45,240310535,Medical Call Assist,70xx 46th Ln Se,Olympia
+01/31/2024,13:14:30,240310542,Follow Up,20xx Lakeridge Dr Sw,Olympia
+01/31/2024,13:15:08,240310543,Civil Call,15xx Sleater Kinney Rd Ne,Olympia
+01/31/2024,13:16:32,240310544,Protection Order,191xx Guava St Sw,Rochester
+01/31/2024,13:20:58,240310553,Fire Call - Assist,52xx Atchinson Dr Se,Olympia
+01/31/2024,13:36:09,240310576,Follow Up,104xx 184th Ave Sw,Rochester
+01/31/2024,13:37:59,240310575,Fraud,112xx 180th Ln Sw,Rochester
+01/31/2024,13:39:13,240310577,Medical Call Assist,8xx Marvin Rd Se,Olympia
+01/31/2024,13:48:30,240310586,Alarm,1xx Carver Walk Se,Rainier
+01/31/2024,14:19:04,240310620,Traffic Stop,Delphi Rd Sw 32nd Ct Sw,Olympia
+01/31/2024,14:29:43,240310632,Auto Theft,128xx Rainier Rd Se,Rainier
+01/31/2024,14:32:23,240310634,Suspicious Circumstances,13xx Hensley St Ne,Olympia
+01/31/2024,14:34:44,240310636,Medical Call Assist,177xx Marsh St Sw,Tenino
+01/31/2024,14:45:37,240310646,Civil Call,34xx Ferguson St Sw,Tumwater
+01/31/2024,15:01:50,240310657,Threats,8xx South Bay Rd Ne,Olympia
+01/31/2024,15:05:24,240310659,Medical Call Assist,8xx Main St S,Bucoda
+01/31/2024,15:11:15,240310668,Disorderly Conduct,86xx Quinault Dr Ne,Olympia
+01/31/2024,15:17:18,240310675,Welfare Check,85xx I5 S,Centralia
+01/31/2024,15:25:34,240310679,Transport,20xx Lakeridge Dr Sw,Olympia
+01/31/2024,15:35:07,240310689,Civil Call,46xx 88th Ave Sw,Olympia
+01/31/2024,15:36:09,240310688,Civil Call,144xx 100th Ave Se,Yelm
+01/31/2024,15:37:23,240310691,Follow Up,128xx Rainier Rd Se,Rainier
+01/31/2024,15:46:47,240310700,Suspicious Person,113xx Case Extension Rd Sw,Olympia
+01/31/2024,15:56:05,240310704,Alarm,65xx Sexton Dr Nw,Olympia
+01/31/2024,15:57:09,240310705,Follow Up,103xx Us Highway 12 Sw,Rochester
+01/31/2024,16:02:20,240310714,Vehicle Prowl,82xx Day Dr Se,Olympia
+01/31/2024,16:18:25,240310733,Civil Call,2xx Market St N,Bucoda
+01/31/2024,16:22:40,240310740,Juvenile Complaint,Skokomish Way Ne Hoh St Ne,Olympia
+01/31/2024,16:23:16,240310741,Found Property,Union Mills Rd Se Mayes Rd Se,Olympia
+01/31/2024,16:26:14,240310742,Follow Up,25xx Delphi Rd Sw,Olympia
+01/31/2024,16:27:29,240310744,Civil Call,9xx Hensley St Ne,Olympia
+01/31/2024,16:35:34,240310752,Juvenile Complaint,Hollis Dr Se Day Dr Se,Olympia
+01/31/2024,16:44:22,240310754,Medical Call Assist,94xx Us Highway 12 Sw,Rochester
+01/31/2024,16:58:18,240310761,Transport,20xx Lakeridge Dr Sw,Olympia
+01/31/2024,16:58:27,240310763,Welfare Check,54xx Black Lake Blvd Sw,Olympia
+01/31/2024,17:04:43,240310766,Medical Call Assist,67xx Prairie Ridge Dr Ne,Olympia
+01/31/2024,17:14:58,240310780,Suspicious Circumstances,179xx Albany St Sw,Rochester
+01/31/2024,17:17:04,240310775,Civil Call,5xx Burnham Ln Se,Rainier
+01/31/2024,17:17:37,240310777,Theft,172xx Reichel Rd Se,Rainier
+01/31/2024,17:18:39,240310778,Medical Call Assist,81xx Afflerbaugh Ct Se,Olympia
+01/31/2024,17:26:14,240310789,Welfare Check,26xx Yelm Hwy Se,Olympia
+01/31/2024,17:30:10,240310794,Traffic Stop,148th Ave Se Brandie Ct Se,Yelm
+01/31/2024,17:31:12,240310796,Protection Order,37xx 85th Ave Nw,Olympia
+01/31/2024,17:32:42,240310797,Attempt to Locate,5xx 133rd Ave Se,Rainier
+01/31/2024,17:35:47,240310798,Alarm,81xx Normandy St Se,Olympia
+01/31/2024,18:00:02,240310823,Medical Call Assist,16xx Rockcress Dr Se,Olympia
+01/31/2024,18:11:39,240310835,Info Patrol,Us Highway 12 Sw Elderberry St Sw,Rochester
+01/31/2024,18:11:41,240310831,Civil Call,116xx Riverside Dr Se,Olympia
+01/31/2024,18:12:21,240310832,Civil Call,41xx 36th Ave Ne,Olympia
+01/31/2024,18:17:23,240310841,Harrassment,225xx Clearland Ln Se,Yelm
+01/31/2024,18:30:13,240310842,Follow Up,92xx Skokomish Way Ne,Olympia
+01/31/2024,18:34:39,240310847,Alarm,65xx Marvin Rd Ne,Olympia
+01/31/2024,18:36:46,240310849,Medical Call Assist,216xx Oregon Trail Rd Sw,Centralia
+01/31/2024,18:41:27,240310855,Fraud,45xx Indian Summer Dr Se,Olympia
+01/31/2024,18:48:01,240310858,Suspicious Vehicle,115xx Riverside Dr Se,Olympia
+01/31/2024,18:49:47,240310860,Traffic Accident,98xx I5 S,Olympia
+01/31/2024,18:50:23,240310862,Medical Call Assist,103xx 179th Ave Sw,Rochester
+01/31/2024,18:53:29,240310866,Civil Call,179xx Clearland Blvd Se,Yelm
+01/31/2024,18:57:35,240310868,Info Patrol,68xx 5th Way Se,Olympia
+01/31/2024,19:01:24,240310870,Traffic Stop,6xx Binghampton St E,Rainier
+01/31/2024,19:02:20,240310874,Domestic Violence,183xx Elaine Ct Sw,Rochester
+01/31/2024,19:05:38,240310873,Traffic Stop,Old Hwy 99 Se Melville St Se,Tenino
+01/31/2024,19:09:12,240310876,Juvenile Complaint,24xx Lakeview Ct Sw,Olympia
+01/31/2024,19:09:54,240310877,Domestic Violence,13xx 46th Ave Ne,Olympia
+01/31/2024,19:25:29,240310880,Theft,1xx Copper Wood Ln Se,Olympia
+01/31/2024,19:27:26,240310881,Traffic Stop,146xx Sr 507,Yelm
+01/31/2024,19:34:48,240310885,Traffic Stop,146xx Sr 507,Yelm
+01/31/2024,19:58:39,240310894,Welfare Check,83xx 49th Loop Se,Olympia
+01/31/2024,20:04:03,240310902,Traffic Stop,3xx Centre St N,Rainier
+01/31/2024,20:08:44,240310906,Traffic Accident,Martin Way E Duterrow Rd Se,Olympia
+01/31/2024,20:13:17,240310909,Field Interview,114xx Case Extension Rd Sw,Olympia
+01/31/2024,20:20:32,240310918,Follow Up,37xx 85th Ave Nw,Olympia
+01/31/2024,20:20:57,240310917,Welfare Check,46th Ave Ne Boston Harbor Rd Ne,Olympia
+01/31/2024,20:22:42,240310919,Traffic Stop,49xx 113th Ave Sw,Olympia
+01/31/2024,20:27:18,240310924,Warrant,90xx Old Hwy 99 Se,Olympia
+01/31/2024,20:31:23,240310927,Traffic Stop,1xx Centre St N,Rainier
+01/31/2024,20:34:23,240310929,Medical Call Assist,70xx 85th Ln Se,Olympia
+01/31/2024,20:36:56,240310931,Traffic Accident,Carpenter Rd Se Husky Way Se,Olympia
+01/31/2024,20:41:21,240310938,Animal,Grove Rd Se Canal Rd Se,Yelm
+01/31/2024,20:41:35,240310934,Civil Call,Carpenter Rd Se Husky Way Se,Olympia
+01/31/2024,20:45:38,240310937,Reckless Driving,Yelm Hwy Se Stratford Ln Se,Olympia
+01/31/2024,21:07:41,240310949,Traffic Stop,Centre St S Easy St Se,Rainier
+01/31/2024,21:18:26,240310954,Public Service,76xx Sandy Point Rd Ne,Olympia
+01/31/2024,21:19:07,240310952,Traffic Stop,2xx 2nd St W,Rainier
+01/31/2024,21:23:28,240310955,Welfare Check,76xx Sandy Point Rd Ne,Olympia
+01/31/2024,21:28:05,240310959,Welfare Check,33xx South Bay Rd Ne,Olympia
+01/31/2024,21:39:32,240310969,Follow Up,76xx Sandy Point Rd Ne,Olympia
+01/31/2024,21:42:00,240310968,Traffic Stop,Centre St S Easy St Se,Rainier
+01/31/2024,21:44:33,240310972,Follow Up,68xx 5th Way Se,Olympia
+01/31/2024,21:44:38,240310970,Eluding,Carpenter Rd Ne Martin Way E,Olympia
+01/31/2024,21:49:57,240310974,CRISIS,185xx Tapaderos St Se,Yelm
+01/31/2024,21:55:52,240310984,Suspicious Circumstances,Sleater Kinney Rd Ne 53rd Ln Ne,Olympia
+01/31/2024,22:11:21,240310993,Medical Call Assist,8xx Edelweiss Ln Se,Olympia
+01/31/2024,22:13:19,240310995,Suspicious Person,15th Ave Se Marvin Rd Se,Olympia
+01/31/2024,22:15:10,240310997,Public Service,40xx Wiggins Rd Se,Olympia
+01/31/2024,22:15:48,240310998,Reckless Driving,Chatham Dr Se Wakeman Dr Se,Olympia
+01/31/2024,22:19:33,240311000,Exposure,15th Ave Se Goldeneye Ln Se,Olympia
+01/31/2024,22:21:50,240311005,Domestic Violence,45xx Toutle Ct Se,Olympia
+01/31/2024,22:22:06,240311006,Welfare Check,83xx Sweetbrier Loop Se,Olympia
+01/31/2024,22:22:34,240311007,Welfare Check,83xx Sweetbrier Loop Se,Olympia
+01/31/2024,22:28:27,240311012,Noise Complaint,68xx 5th Ct Se,Olympia
+01/31/2024,22:29:59,240311014,Attempted Crime,83xx Oya Ln Se,Olympia
+01/31/2024,22:47:46,240311023,Fraud,196xx Cook Rd Se,Yelm
+01/31/2024,22:47:53,240311019,Traffic Stop,16xx Mottman Rd Sw,Olympia
+01/31/2024,23:15:43,240311037,Medical Call Assist,25xx 113th Way Sw,Olympia
+01/31/2024,23:21:19,240311043,Impound,8xx South Bay Rd Ne,Olympia
+01/31/2024,23:24:23,240311046,Suspicious Circumstances,49xx Rumac St Se,Olympia
+01/31/2024,23:25:19,240311048,CRISIS,185xx Tapaderos St Se,Yelm
+01/31/2024,23:38:43,240311051,Traffic Stop,167xx Sargent Rd Sw,Rochester
+01/31/2024,23:41:09,240311053,Traffic Stop,108xx I5 N,Olympia
+01/31/2024,23:51:20,240311059,Traffic Stop,Kinwood St Se 5th Way Se,Olympia
+01/31/2024,23:53:42,240311061,Medical Call Assist,42xx Forest Park St Nw,Olympia
+01/31/2024,23:59:37,240311064,Attempt to Contact,147xx Regal Ln Se,Yelm
+01/31/2024,23:59:41,240311065,Follow Up,8xx Mac Ln Se,Olympia
