@@ -230677,3 +230677,197 @@ Date,Time,Sequence Number,Nature of Incident,Address,City
 04/14/2026,23:17:54,261040821,Welfare Check,196xx Pecan St Sw,Rochester
 04/14/2026,23:25:58,261040825,Traffic Stop,Yelm Hwy Se Rainier Loop Se,Lacey
 04/14/2026,23:46:48,261040827,Medical Call Assist,30xx Donavan Loop Se,Olympia
+04/14/2026,00:09:39,261040008,Traffic Stop,Yelm Hwy Se Ronald Ln Se,Lacey
+04/14/2026,00:20:37,261040016,Suspicious Vehicle,75xx Martin Way E,Olympia
+04/14/2026,00:32:42,261040022,Alarm,50xx Orvas Ct Se,Olympia
+04/14/2026,00:47:05,261040028,Welfare Check,20xx Seven Oaks St Se,Olympia
+04/14/2026,00:57:24,261040033,Assist Other Agency,900 Nb Off Ramp Hwy 101 N,Tumwater
+04/14/2026,01:00:48,261040035,Medical Call Assist,135xx Solberg Rd Se,Yelm
+04/14/2026,01:16:05,261040038,Suspicious Vehicle,166xx 138th Ave Se,Yelm
+04/14/2026,01:31:47,261040042,Traffic Stop,193rd Ave Sw Elderberry St Sw,Rochester
+04/14/2026,02:03:31,261040048,Civil Call,4xx Raintree Loop Ct Se,Rainier
+04/14/2026,02:26:59,261040050,Suspicious Vehicle,50xx Orvas Ct Se,Olympia
+04/14/2026,02:30:58,261040051,Traffic Stop,Pacific Ave Se Carpenter Rd Se,Lacey
+04/14/2026,02:47:00,261040052,Traffic Stop,Pacific Ave Se Sitka St Se,Olympia
+04/14/2026,03:15:59,261040054,Medical Call Assist,181xx Old Hwy 99 Sw,Rochester
+04/14/2026,03:19:26,261040059,Medical Call Assist,81xx Lake Forest Dr Se,Olympia
+04/14/2026,03:20:34,261040057,Suspicious Vehicle,Military Rd Se Sr 507,Tenino
+04/14/2026,03:24:03,261040061,Medical Call Assist,175xx 110th Ave Se,Yelm
+04/14/2026,03:28:05,261040064,Traffic Stop,Marvin Rd Ne Martin Way E,Lacey
+04/14/2026,03:53:27,261040070,Alarm,29xx Haig Dr Se,Olympia
+04/14/2026,04:33:13,261040078,Medical Call Assist,145xx Mcintosh Ln Se,Tenino
+04/14/2026,05:31:35,261040091,Info Patrol,20xx Lakeridge Dr Sw,Olympia
+04/14/2026,06:07:40,261040096,Repossess Vehicle,64xx 201st Ave Sw,Centralia
+04/14/2026,06:27:24,261040102,Area Check,27xx 93rd Ave Sw,Tumwater
+04/14/2026,06:54:29,261040109,Traffic Stop,2xx Tumwater Blvd Sw,Tumwater
+04/14/2026,07:00:16,261040113,Suspicious Vehicle,115xx 6th Ave Se,Olympia
+04/14/2026,07:13:47,261040119,Assist Other Agency,Harrison Ave Nw Overhulse Rd Nw,Olympia
+04/14/2026,07:24:40,261040125,Domestic Violence,84xx 13th Ave Se,Olympia
+04/14/2026,07:53:22,261040130,Medical Call Assist,174xx Applegate St Sw,Rochester
+04/14/2026,07:59:06,261040136,Medical Call Assist,Steamboat Island Rd Nw Whitaker Rd Nw,Olympia
+04/14/2026,08:06:24,261040143,Transport,34xx Ferguson St Sw,Tumwater
+04/14/2026,08:11:31,261040147,Suspicious Vehicle,4xx Sleater Kinney Rd Se,Olympia
+04/14/2026,08:12:10,261040148,Alarm,40xx Legacy Dr Ne,Olympia
+04/14/2026,08:15:37,261040149,Civil Call,138xx Rainier Rd Se,Rainier
+04/14/2026,08:18:08,261040151,Transport,34xx Ferguson St Sw,Tumwater
+04/14/2026,08:26:26,261040156,Transport,34xx Ferguson St Sw,Tumwater
+04/14/2026,08:31:03,261040161,Civil Call,146xx George Rd Se,Yelm
+04/14/2026,08:33:19,261040163,Traffic Stop,87xx Rich Rd Se,Olympia
+04/14/2026,08:37:36,261040168,Follow Up,198xx Carper Rd Sw,Rochester
+04/14/2026,08:50:59,261040182,Theft,51xx Donavan Dr Se,Olympia
+04/14/2026,08:54:09,261040184,Traffic Accident,78th Ln Se Spurgeon Creek Rd Se,Olympia
+04/14/2026,08:57:51,261040188,Medical Call Assist,59xx Puget Beach Rd Ne,Olympia
+04/14/2026,09:10:05,261040193,Alarm,72xx Martin Way E,Olympia
+04/14/2026,09:15:09,261040196,Domestic Violence,76xx Pacific Ave Se,Olympia
+04/14/2026,09:20:09,261040202,Harrassment,30xx Kaiser Rd Nw,Olympia
+04/14/2026,09:21:13,261040203,Traffic Stop,83rd Ave Se Spurgeon Creek Rd Se,Olympia
+04/14/2026,09:24:34,261040205,Theft,13xx Stillwell St Ne,Olympia
+04/14/2026,09:30:53,261040208,Attempt to Contact,116xx Nisqually Park Loop Se,Olympia
+04/14/2026,09:35:06,261040212,Traffic Stop,79xx Spurgeon Creek Rd Se,Olympia
+04/14/2026,09:36:57,261040213,Civil Call,12xx Cora St Se,Lacey
+04/14/2026,10:00:36,261040239,Warrant,20xx Delphi Rd Sw,Olympia
+04/14/2026,10:01:43,261040236,Public Service,63xx 49th Ln Nw,Olympia
+04/14/2026,10:08:15,261040247,Transport,34xx Ferguson St Sw,Tumwater
+04/14/2026,10:13:45,261040258,Follow Up,132xx Squaw Wood Ln Se,Rainier
+04/14/2026,10:20:27,261040263,Civil Call,46xx Greenwood Dr Sw,Olympia
+04/14/2026,10:28:28,261040270,Follow Up,86xx Mullen Rd Se,Olympia
+04/14/2026,10:31:26,261040273,Medical Call Assist,82xx James Rd Sw,Rochester
+04/14/2026,10:32:03,261040277,Medical Call Assist,8xx Wilson St Ne,Olympia
+04/14/2026,10:33:28,261040276,Civil Call,33xx 21st Ave Sw,Olympia
+04/14/2026,10:33:46,261040279,Medical Call Assist,26xx 20th Ave Ne,Olympia
+04/14/2026,10:47:31,261040286,Assist Other Agency,Martin Way E Carpenter Rd Ne,Olympia
+04/14/2026,10:52:20,261040292,Welfare Check,109xx Bald Hills Rd Se,Yelm
+04/14/2026,10:58:28,261040295,Medical Call Assist,42xx 20th Ln Nw,Olympia
+04/14/2026,11:09:10,261040305,Public Service,9xx Tipsoo Loop N,Rainier
+04/14/2026,11:26:45,261040308,Reckless Driving,Cooper Point Rd Nw Country Club Rd Nw,Olympia
+04/14/2026,11:50:09,261040321,Fire Call - Assist,50xx Tri Lake Loop Se,Olympia
+04/14/2026,11:53:02,261040325,Follow Up,64xx 201st Ave Sw,Centralia
+04/14/2026,12:05:13,261040334,Medical Call Assist,58xx Oyster Bay Rd Nw,Olympia
+04/14/2026,12:05:17,261040333,Shoplifting,75xx Martin Way E,Olympia
+04/14/2026,12:29:33,261040362,Threats,41xx Libby Rd Ne,Olympia
+04/14/2026,12:34:03,261040360,Public Service,1xx Crimson Ct Se,Rainier
+04/14/2026,12:39:59,261040364,Civil Call,86xx Mullen Rd Se,Olympia
+04/14/2026,12:46:49,261040366,Sex Offense,20xx Lakeridge Dr Sw,Olympia
+04/14/2026,12:50:53,261040369,Trespassing,130xx Vail Rd Se,Yelm
+04/14/2026,12:52:00,261040367,Protection Order,34xx Ferguson St Sw,Tumwater
+04/14/2026,12:55:03,261040372,Medical Call Assist,40xx Cooper Point Rd Nw,Olympia
+04/14/2026,13:04:21,261040378,Protection Order,4xx Main St N,Bucoda
+04/14/2026,13:09:34,261040380,Assist Other Agency,177xx Crowder Rd Se,Tenino
+04/14/2026,13:11:05,261040381,Medical Call Assist,69xx Lakeside St Sw,Olympia
+04/14/2026,13:19:58,261040386,Follow Up,55xx 180th Ave Sw,Rochester
+04/14/2026,13:20:23,261040388,Fraud,87xx Foxglove Ct Se,Yelm
+04/14/2026,13:27:55,261040393,Welfare Check,23xx Friendly Grove Rd Ne,Olympia
+04/14/2026,13:42:05,261040405,Follow Up,Martin Way E Hensley St Ne,Olympia
+04/14/2026,13:53:48,261040409,Traffic Accident,74xx Spurgeon Creek Rd Se,Olympia
+04/14/2026,13:54:32,261040410,Welfare Check,2xx 2nd St E,Rainier
+04/14/2026,13:55:16,261040411,Suspicious Vehicle,198th Ave Sw Sargent Rd Sw,Rochester
+04/14/2026,14:13:16,261040425,Info Patrol,147xx Lawrence Lake Rd Se,Yelm
+04/14/2026,14:14:02,261040420,Medical Call Assist,28xx Benjamin Ct Se,Olympia
+04/14/2026,14:15:59,261040422,Assist Other Agency,Madrona Beach Rd Nw Sexton Dr Nw,Olympia
+04/14/2026,14:23:35,261040426,Medical Call Assist,26xx Angus Dr Se,Tenino
+04/14/2026,14:25:18,261040428,Transport,34xx Ferguson St Sw,Tumwater
+04/14/2026,14:32:28,261040435,Civil Call,29xx Firwood Loop Se,Olympia
+04/14/2026,14:37:17,261040438,Civil Call,79xx Spartan Ct Se,Olympia
+04/14/2026,14:38:06,261040439,Wires Down,117xx Scott Creek Dr Sw,Olympia
+04/14/2026,14:42:47,261040448,Traffic Stop,Yelm Hwy Se Corporate Center Dr Se,Lacey
+04/14/2026,14:55:29,261040458,Info Patrol,85xx Quinault Dr Ne,Olympia
+04/14/2026,14:59:30,261040460,Traffic Stop,1xx Carpenter Rd Se,Olympia
+04/14/2026,15:08:07,261040464,Suspicious Circumstances,32xx South Bay Rd Ne,Olympia
+04/14/2026,15:08:07,261040463,Death Investigation,32xx South Bay Rd Ne,Olympia
+04/14/2026,15:10:46,261040467,Assist Other Agency,Tipsoo Dr Se Sr 507,Rainier
+04/14/2026,15:10:51,261040466,Medical Call Assist,32xx South Bay Rd Ne,Olympia
+04/14/2026,15:19:29,261040472,Welfare Check,13xx Marvin Rd Se,Olympia
+04/14/2026,15:22:02,261040474,Fraud,139xx Solberg Rd Se,Yelm
+04/14/2026,15:29:15,261040477,Follow Up,25xx Willa St Ne,Olympia
+04/14/2026,15:35:40,261040484,Abuse,66xx Alder Glen Dr Se,Olympia
+04/14/2026,15:36:35,261040487,Public Service,20xx Lakeridge Dr Sw,Olympia
+04/14/2026,15:37:34,261040486,Welfare Check,88xx 80th Ln Se,Olympia
+04/14/2026,15:38:39,261040488,Traffic Stop,2xx Tumwater Blvd Sw,Tumwater
+04/14/2026,15:39:17,261040492,Welfare Check,105xx Case Rd Sw,Olympia
+04/14/2026,15:39:23,261040489,Public Service,20xx Lakeridge Dr Sw,Olympia
+04/14/2026,15:41:10,261040491,Welfare Check,88xx 80th Ln Se,Olympia
+04/14/2026,15:47:05,261040497,Protection Order,89xx 180th Way Sw,Rochester
+04/14/2026,15:52:43,261040499,Alarm,88xx Winter Bright Dr Se,Olympia
+04/14/2026,15:56:54,261040505,Welfare Check,80xx 188th Ave Sw,Rochester
+04/14/2026,16:04:45,261040511,Sex Offender Registry,20xx Lakeridge Dr Sw,Olympia
+04/14/2026,16:07:41,261040515,Protection Order,1xx Mandy Pl Ne,Olympia
+04/14/2026,16:13:38,261040516,Medical Call Assist,61xx 63rd Ave Ne,Olympia
+04/14/2026,16:17:37,261040520,Welfare Check,143xx Sr 507,Yelm
+04/14/2026,16:21:21,261040523,Follow Up,1xx Mandy Pl Ne,Olympia
+04/14/2026,16:28:36,261040526,Traffic Accident,45xx 15th Ave Ne,Olympia
+04/14/2026,16:36:19,261040537,Abuse,174xx Sr 507,Yelm
+04/14/2026,16:36:24,261040536,Welfare Check,78xx Canterwood Dr Se,Olympia
+04/14/2026,16:38:12,261040539,Abuse,41xx 150th Ave Sw,Tenino
+04/14/2026,16:41:32,261040543,Assault,19xx Abernethy Rd Ne,Olympia
+04/14/2026,16:42:38,261040544,Juvenile Complaint,1xx Copper Wood Ln Se,Olympia
+04/14/2026,16:43:29,261040545,Follow Up,66xx Alder Glen Dr Se,Olympia
+04/14/2026,16:44:10,261040546,Assist Other Agency,93xx Lundeen Rd Sw,Rochester
+04/14/2026,16:45:10,261040548,Follow Up,53xx 79th Ct Sw,Olympia
+04/14/2026,16:49:09,261040553,Civil Call,86xx Cascara Ct Se,Yelm
+04/14/2026,16:49:33,261040549,Transport,34xx Ferguson St Sw,Tumwater
+04/14/2026,16:51:31,261040552,Follow Up,110xx Tempo Lake Dr Se,Olympia
+04/14/2026,16:53:51,261040556,Suspicious Person,79xx Ayer St Se,Olympia
+04/14/2026,16:56:07,261040557,Medical Call Assist,32xx Skooter Ln Ne,Olympia
+04/14/2026,17:03:40,261040564,Transport,20xx Lakeridge Dr Sw,Olympia
+04/14/2026,17:06:51,261040567,Welfare Check,216xx Peissner Rd Se,Yelm
+04/14/2026,17:07:18,261040568,Welfare Check,216xx Peissner Rd Se,Yelm
+04/14/2026,17:13:26,261040572,Transport,20xx Lakeridge Dr Sw,Olympia
+04/14/2026,17:14:01,261040573,Domestic Violence,93xx Lundeen Rd Sw,Rochester
+04/14/2026,17:15:50,261040574,Death Investigation,216xx Peissner Rd Se,Yelm
+04/14/2026,17:24:15,261040583,Refer to Other Agency,216xx Peissner Rd Se,Yelm
+04/14/2026,17:26:02,261040584,Sex Offender Registry,20xx Lakeridge Dr Sw,Olympia
+04/14/2026,17:29:12,261040588,Domestic Violence,133xx Military Rd Se,Rainier
+04/14/2026,17:33:39,261040598,CRISIS,13xx Wakeman Ct Se,Olympia
+04/14/2026,17:47:13,261040607,Info Patrol,13xx Wakeman Ct Se,Olympia
+04/14/2026,17:48:14,261040608,Suspicious Vehicle,31xx 80th Ave Se,Olympia
+04/14/2026,17:54:15,261040611,Sex Offender Registry,20xx Lakeridge Dr Sw,Olympia
+04/14/2026,17:56:54,261040612,Domestic Violence,81xx Sweetbrier Ln Se,Olympia
+04/14/2026,18:05:54,261040619,Welfare Check,34xx Shincke Rd Ne,Olympia
+04/14/2026,18:06:59,261040620,Follow Up,200xx Pruett Ln Se,Tenino
+04/14/2026,18:11:19,261040625,Welfare Check,2xx 113th Ave Se,Olympia
+04/14/2026,18:28:53,261040630,Traffic Stop,Case Rd Sw 101st Ave Sw,Olympia
+04/14/2026,18:43:19,261040639,Attempt to Contact,46xx Plover St Ne,Olympia
+04/14/2026,18:45:21,261040640,Traffic Stop,179xx 153rd Ave Se,Yelm
+04/14/2026,18:46:15,261040642,Attempt to Contact,85xx Thuja Ave Se,Yelm
+04/14/2026,18:48:43,261040643,Suspicious Vehicle,Rixie Rd Se 71st Dr Se,Olympia
+04/14/2026,18:55:06,261040652,Fraud,68xx Lakeside St Sw,Olympia
+04/14/2026,18:56:23,261040649,Follow Up,77xx Rixie Rd Se,Olympia
+04/14/2026,18:59:21,261040655,Reckless Driving,Sr 507 Koeppen Rd Se,Yelm
+04/14/2026,19:14:37,261040660,Follow Up,13xx Park Ave E,Tenino
+04/14/2026,19:17:55,261040662,Traffic Accident,6xx Lincoln Ave E,Tenino
+04/14/2026,19:19:22,261040663,Impound,32xx Cooper Point Rd Nw,Olympia
+04/14/2026,19:32:43,261040674,Medical Call Assist,149xx Cedarwood Dr Se,Tenino
+04/14/2026,19:40:19,261040681,Traffic Stop,Rich Rd Se Rixie Rd Se,Olympia
+04/14/2026,19:48:18,261040684,Alarm,55xx Cooper Point Rd Nw,Olympia
+04/14/2026,20:00:23,261040698,Traffic Stop,Wiggins Rd Se Herman Rd Se,Olympia
+04/14/2026,20:05:28,261040702,Traffic Stop,Martin Way E Ridgeview Dr Se,Olympia
+04/14/2026,20:14:06,261040705,Refer to Other Agency,84xx Sweetbrier Loop Se,Olympia
+04/14/2026,20:19:18,261040707,Follow Up,32xx South Bay Rd Ne,Olympia
+04/14/2026,20:20:30,261040710,Traffic Stop,Old Pacific Hwy Se 7th Ave Se,Olympia
+04/14/2026,20:25:49,261040713,Traffic Stop,Old Pacific Hwy Se 7th Ave Se,Olympia
+04/14/2026,20:41:09,261040720,Welfare Check,48xx Cushman Rd Ne,Olympia
+04/14/2026,20:42:03,261040721,Traffic Stop,10xx Kingham St Ne,Olympia
+04/14/2026,20:45:01,261040724,Traffic Stop,Old Pacific Hwy Se Thomsen Rd Se,Olympia
+04/14/2026,20:46:17,261040727,Welfare Check,5xx Seahawk St Se,Olympia
+04/14/2026,20:51:08,261040732,Unwanted Person,71xx Martin Way E,Olympia
+04/14/2026,21:06:30,261040736,Medical Call Assist,142xx Rainier View Dr Se,Yelm
+04/14/2026,21:06:44,261040740,Traffic Stop,Yelm Hwy Se Spurgeon Creek Rd Se,Olympia
+04/14/2026,21:20:42,261040747,Juvenile Complaint,68xx Martin Way E,Olympia
+04/14/2026,21:22:15,261040745,Traffic Stop,85xx Martin Way E,Lacey
+04/14/2026,21:44:28,261040758,Medical Call Assist,27xx 46th Ave Nw,Olympia
+04/14/2026,21:45:30,261040760,Info Patrol,85xx Quinault Dr Ne,Olympia
+04/14/2026,22:00:27,261040767,Medical Call Assist,4xx Binghampton St W,Rainier
+04/14/2026,22:03:49,261040772,Traffic Stop,71xx Martin Way E,Olympia
+04/14/2026,22:05:16,261040775,CRISIS,47xx Lakeshore Ln Se,Olympia
+04/14/2026,22:07:59,261040780,Medical Call Assist,22xx Olivia St Se,Olympia
+04/14/2026,22:09:46,261040782,Field Interview,152xx Vail Rd Se,Yelm
+04/14/2026,22:10:17,261040784,Medical Call Assist,32xx 41st Ave Ne,Olympia
+04/14/2026,22:20:22,261040790,Traffic Stop,352xx Spanaway Mckenna Hwy,PIERCE COUNTY
+04/14/2026,22:53:48,261040804,Traffic Stop,112xx Vail Rd Se,Yelm
+04/14/2026,23:01:18,261040812,CRISIS,96xx Overlook Dr Nw,Olympia
+04/14/2026,23:04:14,261040811,Traffic Stop,Harrison Ave Nw Overhulse Rd Nw,Olympia
+04/14/2026,23:09:18,261040814,Follow Up,200xx Pruett Ln Se,Tenino
+04/14/2026,23:12:48,261040817,Traffic Stop,4xx Myers St Se,Rainier
+04/14/2026,23:17:54,261040821,Welfare Check,196xx Pecan St Sw,Rochester
+04/14/2026,23:25:58,261040825,Traffic Stop,Yelm Hwy Se Rainier Loop Se,Lacey
+04/14/2026,23:46:48,261040827,Medical Call Assist,30xx Donavan Loop Se,Olympia
